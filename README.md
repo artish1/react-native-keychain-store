@@ -39,3 +39,8 @@ KeychainStore.clear(accessGroup);
 ```
 
 All functions return a javascript `Promise`.
+
+## Keychain Sharing
+
+Keychains can be shared across apps so long as they have the same TeamID and access group name.
+You can read more about keychain sharing [here](https://developer.apple.com/documentation/security/keychain_services/keychain_items/sharing_access_to_keychain_items_among_a_collection_of_apps)

@@ -2,7 +2,7 @@
   "name": "@artish1/react-native-keychain-store",
   "title": "React Native Keychain Store",
   "version": "1.0.2",
-  "description": "TODO",
+  "description": "A react-native package to interface with iOS Keychain",
   "main": "index.js",
   "files": [
     "README.md",
